@@ -1,0 +1,1 @@
+print ("Once upon a time, I went to the Smokey Mountains and I saw a family of bears there.")
