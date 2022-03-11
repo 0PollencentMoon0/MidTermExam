@@ -1,0 +1,1 @@
+print ("My name is Charlotte Osburn and I'm a freshman at Gull Lake High school")
